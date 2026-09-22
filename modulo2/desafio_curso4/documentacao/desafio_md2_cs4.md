@@ -23,7 +23,7 @@ O desafio utiliza o dataset **Financial Sample** do Power BI e foi dividido em 3
 
 ### 1. Criação e análise do "Relatório de Vendas considerando Produtos e Segmento"
 
-[Relatório 1]('.../dashboard/desafio_mod2_curso4_pg1')
+![Relatório 1]('.../dashboard/desafio_mod2_curso4_pg1')
 
 Este relatório mostra em três gráficos diferentes as relações de vendas por produto e segmentos.
 
@@ -45,7 +45,7 @@ O dashboard conta com segmentação de dados, que permite que sejam visualizados
 
 Este relatório mostra as relações entre vendas, lucro e páises em 3 gráficos e 2 cartões.
 
-[Relatório 2]('.../dashboard/desafio_mod2_curso4_pg2')
+![Relatório 2]('.../dashboard/desafio_mod2_curso4_pg2')
 
 - Primeiramente, os cartões mostram valores absolutos: o primeiro mostra o valor total de vendas (118.73 milhões)   entre todos os países, e o segundo, o valor de unidades vendidas (1 milhão de unidades).
 
@@ -70,7 +70,7 @@ Este gráfico mostra que uma maior quantidade de vendas não garante um maior lu
 
 Este relatório é mais simples e visual.
 
-[Relatório 3]('.../dashboard/desafio_mod2_curso4_pg3')
+![Relatório 3]('.../dashboard/desafio_mod2_curso4_pg3')
 
 - O primeiro gráfico é de setor, mostrando o lucro por segmento. É muito claro que o setor de Small Business e, principalmente, Government foram muito mais lucrativos que os demais:
     1. Government (65.04%)
